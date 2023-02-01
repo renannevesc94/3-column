@@ -26,6 +26,6 @@ Projeto executado para estudo e pratica de HTML e CSS
 Este projeto foi desenvolvido utilizando as tecnologias referenciadas a baixo:
 - ``HTML`` 
 - ``CSS ``
---``VARIÁVEIS``
+-``VARIÁVEIS``
 - ``FLEXBOX``
 - ``CSS GRID``
